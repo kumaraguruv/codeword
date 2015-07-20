@@ -1,0 +1,3 @@
+Codeword is an incident response tool for system administrators and computer forensic practitioners.  It was built on the premise that critical forensic data is easy to get and that bulky forensic suites are unnecessary and do not serve the interest of the computer network defender.  Codeword’s main purpose is to quickly expose this critical information in a meaningful way, so that an analyst can come to a reasonable conclusion about an enterprise-wide, active infection in minutes to hours.
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up\_feeds="https://sippysworld.org/wordpress/?feed=rss2" width="780"  height="340" border="0" up\_showaddbutton="0"/>
